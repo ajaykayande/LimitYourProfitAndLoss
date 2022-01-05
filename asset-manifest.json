@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LimitYourProfitAndLoss/static/css/main.c828c6aa.chunk.css",
+    "main.css": "/LimitYourProfitAndLoss/static/css/main.9f7107af.chunk.css",
     "main.js": "/LimitYourProfitAndLoss/static/js/main.54aa6deb.chunk.js",
     "main.js.map": "/LimitYourProfitAndLoss/static/js/main.54aa6deb.chunk.js.map",
     "runtime-main.js": "/LimitYourProfitAndLoss/static/js/runtime-main.1f0bf0dd.js",
@@ -8,13 +8,13 @@
     "static/js/2.ffc2b3c0.chunk.js": "/LimitYourProfitAndLoss/static/js/2.ffc2b3c0.chunk.js",
     "static/js/2.ffc2b3c0.chunk.js.map": "/LimitYourProfitAndLoss/static/js/2.ffc2b3c0.chunk.js.map",
     "index.html": "/LimitYourProfitAndLoss/index.html",
-    "static/css/main.c828c6aa.chunk.css.map": "/LimitYourProfitAndLoss/static/css/main.c828c6aa.chunk.css.map",
+    "static/css/main.9f7107af.chunk.css.map": "/LimitYourProfitAndLoss/static/css/main.9f7107af.chunk.css.map",
     "static/js/2.ffc2b3c0.chunk.js.LICENSE.txt": "/LimitYourProfitAndLoss/static/js/2.ffc2b3c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f0bf0dd.js",
     "static/js/2.ffc2b3c0.chunk.js",
-    "static/css/main.c828c6aa.chunk.css",
+    "static/css/main.9f7107af.chunk.css",
     "static/js/main.54aa6deb.chunk.js"
   ]
 }
